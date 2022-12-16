@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alexis",
+      "empresa": "alexissa",
+      "email": "alexiscabj74@gmail.com",
+      "telefono": "02616106872",
+      "notas": "soy nuevo",
+      "id": 6
+    },
+    {
+      "nombre": "Micaela",
+      "empresa": "alexissa",
+      "email": "micaela@gmail.com",
+      "telefono": "2616961367",
+      "notas": "soy mica",
+      "id": 7
+    },
+    {
+      "nombre": "Jeremias",
+      "empresa": "alexissa",
+      "email": "jere@gmail.com",
+      "telefono": "5166516132",
+      "notas": "nuevo",
+      "id": 8
+    }
+  ]
+}
